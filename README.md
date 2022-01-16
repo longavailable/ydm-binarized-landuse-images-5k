@@ -1,5 +1,8 @@
 # ydm-binarized-landuse-images-5k
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5855122.svg)](https://doi.org/10.5281/zenodo.5855122)
+
+
 Data repository to store the binarized landuse images in YDM for the article of 'Precipitation Trends using Gridded Dynamic Sampling Zones: Case Study Yangtze Delta Megalopolis'.
 
 - The dimension is 144*162, and resolution is 5000m.
